@@ -15,12 +15,14 @@ body{
 
 }
 
-a{
+
+/**a{
 	color: #999999;
 }
 a:hover{
 	color: #dddddd;
 }
+**/
 
 #intro_container, #outro_container{
 	width:100%; height:550px;
